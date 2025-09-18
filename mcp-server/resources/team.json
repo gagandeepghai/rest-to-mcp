@@ -1,0 +1,307 @@
+{
+  "manager": "Taylor Reed",
+  "team_members": [
+    {
+      "name": "Avery Smith",
+      "location": "Phoenix",
+      "level": "62",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Cloud Transcoding",
+        "Multi-Device Sync",
+        "Peer-to-Peer Delivery",
+        "Content Delivery Networks",
+        "Live Encoding"
+      ],
+      "projects": [
+        "Streaming Dashboard Overhaul",
+        "Mobile Bandwidth Saver"
+      ]
+    },
+    {
+      "name": "Riley Jones",
+      "location": "Detroit",
+      "level": "60",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Video Analytics",
+        "Multi-Device Sync",
+        "DRM Integration",
+        "Content Delivery Networks",
+        "Scalable Architecture"
+      ],
+      "projects": [
+        "High Efficiency Codec Deployment",
+        "Mobile Bandwidth Saver"
+      ]
+    },
+    {
+      "name": "Jordan Brown",
+      "location": "New York",
+      "level": "64",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Scalable Architecture",
+        "Live Encoding",
+        "Subtitle Synchronization",
+        "DRM Integration",
+        "Streaming Protocol Design"
+      ],
+      "projects": [
+        "Edge CDN Scaling",
+        "Optimization of 4K Streaming"
+      ]
+    },
+    {
+      "name": "Morgan Davis",
+      "location": "New York",
+      "level": "63",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Buffer Management",
+        "UltraHD Encoding",
+        "Adaptive Bitrate Streaming"
+      ],
+      "projects": [
+        "Virtual Reality Stream Support",
+        "Latency Reduction Initiative",
+        "High Efficiency Codec Deployment",
+        "Optimization of 4K Streaming",
+        "Mobile Bandwidth Saver"
+      ]
+    },
+    {
+      "name": "Casey Miller",
+      "location": "Charlotte",
+      "level": "62",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "UltraHD Encoding",
+        "DRM Integration",
+        "Low Latency Streaming",
+        "Cloud Transcoding"
+      ],
+      "recent_work": [
+        "Streaming Dashboard Overhaul",
+        "Dynamic Ad Insertion System",
+        "Optimization of 4K Streaming"
+      ]
+    },
+    {
+      "name": "Peyton Wilson",
+      "location": "Columbus",
+      "level": "62",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Peer-to-Peer Delivery",
+        "Buffer Management",
+        "Content Delivery Networks",
+        "Video Compression Algorithms",
+        "Cloud Transcoding"
+      ],
+      "recent_work": [
+        "NextGen Live Chat Integration",
+        "Edge CDN Scaling",
+        "Personalized Subtitle Sync",
+        "High Efficiency Codec Deployment"
+      ]
+    },
+    {
+      "name": "Charlie Moore",
+      "location": "San Antonio",
+      "level": "62",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Live Encoding",
+        "Streaming Protocol Design",
+        "Scalable Architecture",
+        "UltraHD Encoding"
+      ],
+      "recent_work": [
+        "Adaptive Playlist Shuffling",
+        "Optimization of 4K Streaming",
+        "Streaming Dashboard Overhaul",
+        "Latency Reduction Initiative",
+        "High Efficiency Codec Deployment"
+      ]
+    },
+    {
+      "name": "Dakota Taylor",
+      "location": "Columbus",
+      "level": "64",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Video Compression Algorithms",
+        "Low Latency Streaming",
+        "UltraHD Encoding",
+        "Subtitle Synchronization",
+        "Buffer Management"
+      ],
+      "projects": [
+        "NextGen Live Chat Integration",
+        "Streaming Dashboard Overhaul",
+        "Personalized Subtitle Sync",
+        "Mobile Bandwidth Saver"
+      ]
+    },
+    {
+      "name": "Harper Anderson",
+      "location": "Philadelphia",
+      "level": "63",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Cloud Transcoding",
+        "Video Analytics",
+        "Low Latency Streaming",
+        "Scalable Architecture",
+        "Adaptive Bitrate Streaming"
+      ],
+      "projects": [
+        "Optimization of 4K Streaming",
+        "Dynamic Ad Insertion System",
+        "Adaptive Playlist Shuffling",
+        "High Efficiency Codec Deployment",
+        "AI-Powered Content Recommendation"
+      ]
+    },
+    {
+      "name": "Quinn Thomas",
+      "location": "Philadelphia",
+      "level": "63",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "DRM Integration",
+        "Adaptive Bitrate Streaming",
+        "Multi-Device Sync",
+        "Peer-to-Peer Delivery",
+        "UltraHD Encoding"
+      ],
+      "projects": [
+        "High Efficiency Codec Deployment",
+        "Personalized Subtitle Sync",
+        "Edge CDN Scaling"
+      ]
+    },
+    {
+      "name": "Reese Jackson",
+      "location": "Jacksonville",
+      "level": "59",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Peer-to-Peer Delivery",
+        "Live Encoding",
+        "Buffer Management",
+        "UltraHD Encoding"
+      ],
+      "recent_work": [
+        "High Efficiency Codec Deployment",
+        "Personalized Subtitle Sync"
+      ]
+    },
+    {
+      "name": "Skyler White",
+      "location": "Phoenix",
+      "level": "63",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Multi-Device Sync",
+        "UltraHD Encoding",
+        "DRM Integration",
+        "Video Analytics",
+        "Adaptive Bitrate Streaming"
+      ],
+      "projects": [
+        "Edge CDN Scaling",
+        "Adaptive Playlist Shuffling",
+        "Personalized Subtitle Sync",
+        "Latency Reduction Initiative",
+        "High Efficiency Codec Deployment"
+      ]
+    },
+    {
+      "name": "Hayden Harris",
+      "location": "Detroit",
+      "level": "59",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Video Analytics",
+        "Low Latency Streaming",
+        "Adaptive Bitrate Streaming",
+        "UltraHD Encoding"
+      ],
+      "recent_work": [
+        "Streaming Dashboard Overhaul",
+        "Adaptive Playlist Shuffling",
+        "Optimization of 4K Streaming",
+        "Latency Reduction Initiative"
+      ]
+    },
+    {
+      "name": "Parker Martin",
+      "location": "Philadelphia",
+      "level": "64",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Streaming Protocol Design",
+        "Video Compression Algorithms",
+        "Content Delivery Networks",
+        "UltraHD Encoding",
+        "Live Encoding"
+      ],
+      "recent_work": [
+        "Virtual Reality Stream Support",
+        "NextGen Live Chat Integration"
+      ]
+    },
+    {
+      "name": "Payton Thompson",
+      "location": "Chicago",
+      "level": "64",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Scalable Architecture",
+        "Adaptive Bitrate Streaming",
+        "Multi-Device Sync"
+      ],
+      "projects": [
+        "Latency Reduction Initiative",
+        "Dynamic Ad Insertion System",
+        "NextGen Live Chat Integration",
+        "AI-Powered Content Recommendation"
+      ]
+    },
+    {
+      "name": "Rowan Garcia",
+      "location": "Jacksonville",
+      "level": "63",
+      "job": "Software Engineering",
+      "profession": "DEV",
+      "expertise": [
+        "Content Delivery Networks",
+        "Video Compression Algorithms",
+        "Cloud Transcoding",
+        "Live Encoding"
+      ],
+      "projects": [
+        "Virtual Reality Stream Support",
+        "Dynamic Ad Insertion System",
+        "Mobile Bandwidth Saver"
+      ]
+    }
+  ]
+}
