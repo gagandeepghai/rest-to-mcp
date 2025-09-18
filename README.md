@@ -1,5 +1,6 @@
-clone repo to CODE_DOWNLOAD_DIRECTORY
-
+1. pick your own CODE_DOWNLOAD_DIRECTORY
+2. clone repo to CODE_DOWNLOAD_DIRECTORY
+3. cd CODE_DOWNLOAD_DIRECTORY
 
 **Rest**
 * Build and run server
