@@ -1,3 +1,4 @@
+clone repo to CODE_DOWNLOAD_DIRECTORY
 **Rest**
 * Build and run server
     * cd rest-server
