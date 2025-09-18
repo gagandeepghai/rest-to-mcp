@@ -7,10 +7,10 @@
     * cd rest-server
     * npm install
     * npm run dev
-* Test
+* Test on browser
     * http://localhost:3000/test 
     * http://localhost:3000/team/members
-    * http://localhost:3000/team/members/avery
+    * http://localhost:3000/team/members/{first_name_of_any_member}
 
 **MCP**
 * Build
@@ -34,5 +34,13 @@
 * Test
   * Claude Desktop app
   * Check that your tools are registered
+
+<img width="377" height="337" alt="Screenshot 2025-09-18 at 2 30 30 PM" src="https://github.com/user-attachments/assets/cecae041-e30a-4380-95d2-712dfdad41c9" />
+
+<img width="376" height="233" alt="Screenshot 2025-09-18 at 2 30 24 PM" src="https://github.com/user-attachments/assets/9525cfd8-f89e-4fbb-813d-0b28d2b0ef8d" />
+
   * Play and enjoy!
+    * Tell me something about my team.
+    * Who can I engage to solve video encoding issue?
+    * Who can do deep dive on Architecture? 
 
