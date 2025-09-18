@@ -41,6 +41,6 @@
 
   * Play and enjoy!
     * Tell me something about my team.
-    * Who can I engage to solve video encoding issue?
-    * Who can do deep dive on Architecture? 
+    * Who can I engage from my team to solve video encoding issue?
+    * Who from my team can do deep dive on Architecture? 
 
